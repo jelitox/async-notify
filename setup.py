@@ -105,7 +105,7 @@ setup(
         "botocore==1.27.59",
         "boto3==1.24.91",
         "aiobotocore==2.4.0",
-        "o365==2.0.20",
+        "o365==2.0.21",
         "slack_bolt==1.15.1"
     ],
     tests_require=[
